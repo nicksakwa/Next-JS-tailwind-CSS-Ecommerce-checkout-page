@@ -1,4 +1,4 @@
-# Hey there 
+# Hey there 👋
 
 # Next JS tailwind CSS Ecommerce Checkout Page 
 
